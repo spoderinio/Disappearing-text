@@ -1,0 +1,1 @@
+A program that has a text entry box, and lets you write, you can choose after what time the save button appears and the catch is that if you don't type for 5 seconds, all of your work gets deleted.
